@@ -37,6 +37,12 @@ Atuo principalmente com **Node.js, Java, React, TypeScript** e bancos de dados r
 
 <br/>
 
+<div>
+<a href="https://github.com/Tallyon-Lima">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
