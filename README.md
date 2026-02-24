@@ -27,8 +27,8 @@ Atuo principalmente com **Node.js, Java, React, TypeScript** e bancos de dados r
 ---
 
 <div align="center">
-  <img height="160em" src="https://SUA-URL-AQUI.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://SUA-URL-AQUI.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-two-indol-52.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-two-indol-52.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <br/>
