@@ -27,21 +27,11 @@ Atuo principalmente com **Node.js, Java, React, TypeScript** e bancos de dados r
 ---
 
 <div align="center">
-  <a href="https://github.com/Tallyon-Lima">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Tallyon-Lima">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=6&theme=default"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <br/>
-
-<div>
-<a href="https://github.com/Tallyon-Lima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallyon-Lima&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tallyon-Lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
